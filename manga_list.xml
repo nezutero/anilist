@@ -11,12 +11,12 @@
     <user_id></user_id>
     <user_name>nezutero</user_name>
     <user_export_type>2</user_export_type>
-    <user_total_manga>48</user_total_manga>
+    <user_total_manga>76</user_total_manga>
     <user_total_reading>0</user_total_reading>
-    <user_total_completed>24</user_total_completed>
+    <user_total_completed>25</user_total_completed>
     <user_total_on_hold>2</user_total_on_hold>
     <user_total_dropped>7</user_total_dropped>
-    <user_total_plantoread>15</user_total_plantoread>
+    <user_total_plantoread>42</user_total_plantoread>
   </myinfo>
   <manga>
     <manga_mangadb_id>1</manga_mangadb_id>
@@ -27,7 +27,7 @@
     <manga_volumes>18</manga_volumes>
     <my_read_volumes>18</my_read_volumes>
     <my_read_chapters>162</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -83,7 +83,7 @@
     <manga_volumes>22</manga_volumes>
     <my_read_volumes>22</my_read_volumes>
     <my_read_chapters>249</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -92,6 +92,34 @@
     <my_finish_date>2026-1-15</my_finish_date>
     <my_score>10</my_score>
     <my_status>Completed</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>28</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[NANA]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
     <my_comments>
       <![CDATA[]]>
     </my_comments>
@@ -159,6 +187,62 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>418</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Mushishi]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>10</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>564</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[GANTZ]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>37</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>642</manga_mangadb_id>
     <manga_title>
       <![CDATA[Vinland Saga]]>
@@ -167,7 +251,7 @@
     <manga_volumes>29</manga_volumes>
     <my_read_volumes>29</my_read_volumes>
     <my_read_chapters>220</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -195,7 +279,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>327</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -223,7 +307,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>101</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -243,6 +327,34 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>670</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Bokurano]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>11</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>743</manga_mangadb_id>
     <manga_title>
       <![CDATA[21 Seiki Shounen]]>
@@ -251,7 +363,7 @@
     <manga_volumes>2</manga_volumes>
     <my_read_volumes>2</my_read_volumes>
     <my_read_chapters>16</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -260,6 +372,34 @@
     <my_finish_date>2026-1-15</my_finish_date>
     <my_score>10</my_score>
     <my_status>Completed</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>745</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[PLUTO]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>8</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
     <my_comments>
       <![CDATA[]]>
     </my_comments>
@@ -299,9 +439,93 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>1133</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Dorohedoro]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>23</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>1224</manga_mangadb_id>
     <manga_title>
       <![CDATA[3-gatsu no Lion]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>1859</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Natsume Yuujinchou]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>2924</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Historie]]>
     </manga_title>
     <manga_chapters>0</manga_chapters>
     <manga_volumes>0</manga_volumes>
@@ -355,6 +579,62 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>5744</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Ping Pong]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>5</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>7375</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Kokou no Hito]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>17</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>8967</manga_mangadb_id>
     <manga_title>
       <![CDATA[Onani Master Kurosawa]]>
@@ -363,7 +643,7 @@
     <manga_volumes>4</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>31</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -372,6 +652,146 @@
     <my_finish_date>2024-4-24</my_finish_date>
     <my_score>9</my_score>
     <my_status>Completed</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>9115</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Ookami to Koushinryou]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>14440</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[I Am a Hero]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>22</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>16765</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Kingdom]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>17051</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Barakamon]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>19</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>24705</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Aku no Hana]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>11</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
     <my_comments>
       <![CDATA[]]>
     </my_comments>
@@ -439,6 +859,62 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>44489</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Houseki no Kuni]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>13</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>49865</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Ajin]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>17</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>70259</manga_mangadb_id>
     <manga_title>
       <![CDATA[Mushoku Tensei: Isekai Ittara Honki Dasu]]>
@@ -467,6 +943,34 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>85781</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Dungeon Meshi]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>14</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>119008</manga_mangadb_id>
     <manga_title>
       <![CDATA[Mome Joheun Namja]]>
@@ -475,7 +979,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>75</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -503,7 +1007,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>78</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -523,6 +1027,62 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>91941</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Made in Abyss]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>85968</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Golden Kamuy]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>31</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>111213</manga_mangadb_id>
     <manga_title>
       <![CDATA[Hurejasik]]>
@@ -531,7 +1091,7 @@
     <manga_volumes>5</manga_volumes>
     <my_read_volumes>5</my_read_volumes>
     <my_read_chapters>94</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -559,7 +1119,7 @@
     <manga_volumes>8</manga_volumes>
     <my_read_volumes>8</my_read_volumes>
     <my_read_chapters>83</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -579,12 +1139,12 @@
     </my_tags>
   </manga>
   <manga>
-    <manga_mangadb_id>87844</manga_mangadb_id>
+    <manga_mangadb_id>70345</manga_mangadb_id>
     <manga_title>
-      <![CDATA[The Fable]]>
+      <![CDATA[Grand Blue]]>
     </manga_title>
     <manga_chapters>0</manga_chapters>
-    <manga_volumes>22</manga_volumes>
+    <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>0</my_read_chapters>
     <my_times_read>0</my_times_read>
@@ -607,6 +1167,34 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>87844</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[The Fable]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>22</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>170</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>9</my_score>
+    <my_status>On-Hold</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>100448</manga_mangadb_id>
     <manga_title>
       <![CDATA[Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.]]>
@@ -615,7 +1203,7 @@
     <manga_volumes>3</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>18</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -635,6 +1223,62 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>102343</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Fumetsu no Anata e]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>25</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>104314</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Jagaaaaaan]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>14</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>126479</manga_mangadb_id>
     <manga_title>
       <![CDATA[Mikkakan no Koufuku]]>
@@ -643,7 +1287,7 @@
     <manga_volumes>1</manga_volumes>
     <my_read_volumes>1</my_read_volumes>
     <my_read_chapters>15</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -663,6 +1307,34 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>107562</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Kusuriya no Hitorigoto]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>106608</manga_mangadb_id>
     <manga_title>
       <![CDATA[Isekai Meikyuu de Harem wo]]>
@@ -671,7 +1343,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>58</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -699,7 +1371,7 @@
     <manga_volumes>12</manga_volumes>
     <my_read_volumes>12</my_read_volumes>
     <my_read_chapters>141</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -803,6 +1475,34 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>106809</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Koko wa Ima kara Rinri desu.]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>10</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>132247</manga_mangadb_id>
     <manga_title>
       <![CDATA[Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida]]>
@@ -811,7 +1511,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>268</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -839,7 +1539,7 @@
     <manga_volumes>15</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>201</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -887,6 +1587,34 @@
     </my_tags>
   </manga>
   <manga>
+    <manga_mangadb_id>114745</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Blue Lock]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
     <manga_mangadb_id>119152</manga_mangadb_id>
     <manga_title>
       <![CDATA[Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life]]>
@@ -904,6 +1632,34 @@
     <my_finish_date>0000-00-00</my_finish_date>
     <my_score>5</my_score>
     <my_status>Dropped</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>107931</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Blue Period]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
     <my_comments>
       <![CDATA[]]>
     </my_comments>
@@ -951,7 +1707,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>150</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -979,7 +1735,7 @@
     <manga_volumes>16</manga_volumes>
     <my_read_volumes>16</my_read_volumes>
     <my_read_chapters>168</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -1007,15 +1763,15 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>212</my_read_chapters>
-    <my_times_read>0</my_times_read>
+    <my_times_read>1</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
     <my_reread_value></my_reread_value>
     <my_start_date>2023-8-12</my_start_date>
-    <my_finish_date>0000-00-00</my_finish_date>
+    <my_finish_date>2026-7-19</my_finish_date>
     <my_score>10</my_score>
-    <my_status>On-Hold</my_status>
+    <my_status>Completed</my_status>
     <my_comments>
       <![CDATA[]]>
     </my_comments>
@@ -1091,7 +1847,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>144</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -1147,7 +1903,7 @@
     <manga_volumes>5</manga_volumes>
     <my_read_volumes>5</my_read_volumes>
     <my_read_chapters>81</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -1175,7 +1931,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>210</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -1231,7 +1987,7 @@
     <manga_volumes>1</manga_volumes>
     <my_read_volumes>1</my_read_volumes>
     <my_read_chapters>1</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -1287,7 +2043,7 @@
     <manga_volumes>0</manga_volumes>
     <my_read_volumes>0</my_read_volumes>
     <my_read_chapters>69</my_read_chapters>
-    <my_times_read>2</my_times_read>
+    <my_times_read>3</my_times_read>
     <my_scanlation_group>
       <![CDATA[]]>
     </my_scanlation_group>
@@ -1352,6 +2108,34 @@
     <my_finish_date>0000-00-00</my_finish_date>
     <my_score>0</my_score>
     <my_status>Dropped</my_status>
+    <my_comments>
+      <![CDATA[]]>
+    </my_comments>
+    <update_on_import>0</update_on_import>
+    <my_id>0</my_id>
+    <my_storage></my_storage>
+    <my_tags>
+      <![CDATA[]]>
+    </my_tags>
+  </manga>
+  <manga>
+    <manga_mangadb_id>162479</manga_mangadb_id>
+    <manga_title>
+      <![CDATA[Kagurabachi]]>
+    </manga_title>
+    <manga_chapters>0</manga_chapters>
+    <manga_volumes>0</manga_volumes>
+    <my_read_volumes>0</my_read_volumes>
+    <my_read_chapters>0</my_read_chapters>
+    <my_times_read>0</my_times_read>
+    <my_scanlation_group>
+      <![CDATA[]]>
+    </my_scanlation_group>
+    <my_reread_value></my_reread_value>
+    <my_start_date>0000-00-00</my_start_date>
+    <my_finish_date>0000-00-00</my_finish_date>
+    <my_score>0</my_score>
+    <my_status>Plan to Read</my_status>
     <my_comments>
       <![CDATA[]]>
     </my_comments>
